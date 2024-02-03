@@ -1,3 +1,4 @@
+console.log('Script is running');
 document.addEventListener('DOMContentLoaded', function() {
     const toggle = document.getElementById('dark-mode-toggle');
     const body = document.body;
