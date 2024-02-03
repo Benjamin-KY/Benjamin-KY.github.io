@@ -1,11 +1,11 @@
 # Table of contents
 
 * [👾 AI/ML (in)Security](README.md)
-  * [My LinkedIn](https://www.linkedin.com/in/benkereopayorke/)
-  * [My Google Scholar Profile](https://scholar.google.com.au/citations?hl=en\&user=mhFLaqgAAAAJ)
 
 ## 🧑💻 Me, Myself and AI
 
+* [🤓 My LinkedIn](https://www.linkedin.com/in/benkereopayorke/)
+* [🥸 Google Scholar Profile](https://scholar.google.com.au/citations?hl=en\&user=mhFLaqgAAAAJ)
 * [1⃣ How I learned to Love Skynet](me-myself-and-ai/how-i-learned-to-love-skynet.md)
 * [2⃣ Projects in Motion](me-myself-and-ai/projects-in-motion.md)
 * [3⃣ Research and Publications](me-myself-and-ai/research-and-publications.md)
