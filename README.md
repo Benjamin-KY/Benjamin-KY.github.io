@@ -1,5 +1,8 @@
 ---
-description: Thoughts from the frontiers of (in)Security
+description: >-
+  Thoughts from the frontiers of (in)Security by Ben Kereopa-Yorke. I work as a
+  Senior Security Specialist with current experience in securing AI/ML systems
+  and building assurance architectures.
 cover: .gitbook/assets/futureisnow.webp
 coverY: 25
 layout:
@@ -20,7 +23,7 @@ layout:
 
 # 👾 AI/ML (in)Security
 
-## Potatoes and Corpus
+## Potatoes & Corpus (if you know what you want and it ain't me)
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
@@ -38,24 +41,22 @@ layout:
 
 ## Me, Myself and AI
 
-What I think, what I do, what I write, what I teach, and you.
-
-{% content-ref url="overview/practitioner-guide.md" %}
-[practitioner-guide.md](overview/practitioner-guide.md)
+{% content-ref url="me-myself-and-ai/practitioner-guide.md" %}
+[practitioner-guide.md](me-myself-and-ai/practitioner-guide.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/projects-in-motion.md" %}
-[projects-in-motion.md](overview/projects-in-motion.md)
+{% content-ref url="me-myself-and-ai/projects-in-motion.md" %}
+[projects-in-motion.md](me-myself-and-ai/projects-in-motion.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/my-research-and-publications.md" %}
-[my-research-and-publications.md](overview/my-research-and-publications.md)
+{% content-ref url="me-myself-and-ai/my-research-and-publications.md" %}
+[my-research-and-publications.md](me-myself-and-ai/my-research-and-publications.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/my-teaching.md" %}
-[my-teaching.md](overview/my-teaching.md)
+{% content-ref url="me-myself-and-ai/my-teaching.md" %}
+[my-teaching.md](me-myself-and-ai/my-teaching.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/collaboration-wanted.md" %}
-[collaboration-wanted.md](overview/collaboration-wanted.md)
+{% content-ref url="me-myself-and-ai/collaboration-wanted.md" %}
+[collaboration-wanted.md](me-myself-and-ai/collaboration-wanted.md)
 {% endcontent-ref %}

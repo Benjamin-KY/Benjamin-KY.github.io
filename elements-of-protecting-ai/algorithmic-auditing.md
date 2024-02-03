@@ -1,2 +1,2 @@
-# Algorithmic Auditing
+# 🧡 Algorithmic Auditing
 

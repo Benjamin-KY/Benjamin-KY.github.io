@@ -1,2 +1,2 @@
-# Logging
+# 💜 Logging
 
