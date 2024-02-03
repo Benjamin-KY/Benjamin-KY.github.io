@@ -61,21 +61,43 @@ footer {
     }
     
 }
+#dark-mode-toggle {
+    margin-bottom: 20px; /* Adjust the value as needed */
+}
+/* Light Mode styles */
+body {
+    background-color: #f0f0f0; /* Light grey background for body */
+    color: #333; /* Dark text for body */
+}
+
+nav ul {
+    background: #e0e0e0; /* Lighter grey background for nav */
+}
+
+nav ul li a {
+    color: #333; /* Dark text for nav links */
+}
+
+footer {
+    background: #c0c0c0; /* Light grey background for footer */
+    color: #333; /* Dark text for footer */
+}
+
 /* Dark Mode styles */
 .dark-mode {
-    background-color: #333; /* Dark background for body */
-    color: #fff; /* Light text for body */
+    background-color: #3a3a3a; /* Dark grey background for body */
+    color: #f0f0f0; /* Light text for body */
 }
 
 .dark-mode nav ul {
-    background: #555; /* Darker background for nav */
+    background: #4a4a4a; /* Darker grey background for nav */
 }
 
 .dark-mode nav ul li a {
-    color: #ddd; /* Lighter text for nav links */
+    color: #f0f0f0; /* Light text for nav links */
 }
 
 .dark-mode footer {
-    background: #222; /* Dark background for footer */
-    color: #fff; /* Light text for footer */
+    background: #2a2a2a; /* Darkest grey background for footer */
+    color: #f0f0f0; /* Light text for footer */
 }
