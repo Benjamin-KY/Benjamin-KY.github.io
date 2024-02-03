@@ -27,6 +27,15 @@ layout:
 
 > > “By far, the greatest danger of Artificial Intelligence is that people conclude too early that they understand it.” —Eliezer Yudkowsky
 
+\
+AI and ML security is of paramount importance because these technologies are increasingly integral to our daily lives, powering everything from healthcare systems and financial services to transportation and national security. As AI and ML systems become more sophisticated, they also become more susceptible to a variety of threats, including data poisoning, model theft, and adversarial attacks. These vulnerabilities can lead to significant risks, such as privacy breaches, biased decision-making, and even physical harm if AI controls critical systems.
+
+Ensuring the security of AI and ML is not just about safeguarding data and infrastructure; it's about protecting the societal and ethical principles that these systems impact. With AI's growing role in decision-making processes, the stakes of security lapses are not just economic or technical but profoundly human.
+
+Making AI and ML security accessible as a skill is equally crucial. As the technology democratises, so should the knowledge and tools to secure it. By equipping a broad base of practitioners, developers, and stakeholders with the necessary skills, we can foster a culture of security that keeps pace with innovation. Accessibility ensures diverse perspectives are included in the security process, leading to more robust and resilient AI/ML systems. We have made a lot of mistakes in traditional information and cyber security, and we do so again in AI/ML security at our peril.&#x20;
+
+In this Gitbook I attempt to pass on the knowledge I have both as a practitioner and researcher to guide others in this emerging and critical field. I do not pretend to be the expert, nor the John Connor of the GPT Age. I am someone who loves to learn, teach, and discuss this field among others.
+
 ***
 
 ## Me, Myself and AI
