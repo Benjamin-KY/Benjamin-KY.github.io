@@ -23,7 +23,11 @@ layout:
 
 # 👾 AI/ML (in)Security
 
-## Potatoes & Corpus (if you know what you want and it ain't me)
+***
+
+{% embed url="https://www.linkedin.com/in/benkereopayorke/" %}
+My LinkedIn Profile
+{% endembed %}
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
