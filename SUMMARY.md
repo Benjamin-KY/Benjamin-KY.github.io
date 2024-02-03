@@ -18,7 +18,7 @@
 * [Why](ai-ml-security-101/why.md)
 * [How](ai-ml-security-101/how.md)
 
-## Non-technical AI Hacking
+## Non-Technical AI Hacking
 
 * [Prompt Injection](non-technical-ai-hacking/prompt-injection.md)
 * [Spray and Pray](non-technical-ai-hacking/spray-and-pray.md)
