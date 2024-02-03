@@ -48,7 +48,7 @@ section {
 
 footer {
     text-align: center;
-    background: url('/path/to/your/uploaded/futuristic-banner.png') no-repeat center center;
+    background: url('https://github.com/Benjamin-KY/Benjamin-KY.github.io/blob/main/futuristic-banner.jpg') no-repeat center center;
     background-size: cover;
     color: #fff;
     padding: 40px 0; /* Adjust the padding to fit your banner size */
