@@ -34,14 +34,14 @@ Ensuring the security of AI and ML is not just about safeguarding data and infra
 
 Making AI and ML security accessible as a skill is equally crucial. As the technology democratises, so should the knowledge and tools to secure it. By equipping a broad base of practitioners, developers, and stakeholders with the necessary skills, we can foster a culture of security that keeps pace with innovation. Accessibility ensures diverse perspectives are included in the security process, leading to more robust and resilient AI/ML systems. We have made a lot of mistakes in traditional information and cyber security, and we do so again in AI/ML security at our peril.&#x20;
 
-In this Gitbook I attempt to pass on the knowledge I have both as a practitioner and researcher to guide others in this emerging and critical field. I do not pretend to be the expert, nor the John Connor of the GPT Age. I am someone who loves to learn, teach, and discuss this field among others.
+In this Gitbook I attempt to pass on the knowledge I have both as a practitioner and researcher to guide others in this emerging and critical field. I do not pretend to be the expert, nor the John Connor of the Agentic GPT Age. I am someone who loves to learn, teach, and discuss this field with others.
 
 ***
 
 ## Me, Myself and AI
 
-{% content-ref url="me-myself-and-ai/how-i-learned-to-love-skynet.md" %}
-[how-i-learned-to-love-skynet.md](me-myself-and-ai/how-i-learned-to-love-skynet.md)
+{% content-ref url="me-myself-and-ai/how-you-can-learn-to-love-skynet.md" %}
+[how-you-can-learn-to-love-skynet.md](me-myself-and-ai/how-you-can-learn-to-love-skynet.md)
 {% endcontent-ref %}
 
 {% content-ref url="me-myself-and-ai/projects-in-motion.md" %}
@@ -60,7 +60,31 @@ In this Gitbook I attempt to pass on the knowledge I have both as a practitioner
 [collaboration-wanted.md](me-myself-and-ai/collaboration-wanted.md)
 {% endcontent-ref %}
 
+{% content-ref url="me-myself-and-ai/conferences-and-speaking.md" %}
+[conferences-and-speaking.md](me-myself-and-ai/conferences-and-speaking.md)
+{% endcontent-ref %}
+
 ## Do GPTs dream of electric screams?
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
