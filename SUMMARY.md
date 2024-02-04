@@ -24,7 +24,7 @@
 
 ## 😈 Technical AI Hacking
 
-* [What are the differences between hacking an AI and hacking systems?](technical-ai-hacking/what-are-the-differences-between-hacking-an-ai-and-hacking-systems.md)
+* [What are the differences between hacking an AI and hacking other systems?](technical-ai-hacking/what-are-the-differences-between-hacking-an-ai-and-hacking-other-systems.md)
 
 ## 🐼 Non-Technical AI Hacking
 
@@ -37,9 +37,11 @@
 * [❤ AI Assurance](elements-of-protecting-ai/ai-assurance.md)
 * [🧡 Algorithmic Auditing](elements-of-protecting-ai/algorithmic-auditing.md)
 * [💛 Adversarial AI/ML Testing](elements-of-protecting-ai/adversarial-ai-ml-testing.md)
-* [💚 Stresstesting](elements-of-protecting-ai/stresstesting.md)
+* [💚 Stress-testing](elements-of-protecting-ai/stress-testing.md)
 * [💙 Data Safety](elements-of-protecting-ai/data-safety.md)
 * [💜 Logging](elements-of-protecting-ai/logging.md)
+* [🖤 Red Teaming AI Suppliers](elements-of-protecting-ai/red-teaming-ai-suppliers.md)
+* [🤎 AI/MLSecOps](elements-of-protecting-ai/ai-mlsecops.md)
 
 ## 🦿 AI Mental Models
 
