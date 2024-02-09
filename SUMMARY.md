@@ -5,6 +5,7 @@
 ## 🧑💻 Me, Myself and AI
 
 * [1⃣ How you can learn to love Skynet](me-myself-and-ai/how-you-can-learn-to-love-skynet.md)
+* [🦻 My Certs and Badges](https://www.credly.com/users/benjamin-kereopa-yorke/badges)
 * [🤓 My LinkedIn](https://www.linkedin.com/in/benkereopayorke/)
 * [2⃣ Projects in Motion](me-myself-and-ai/projects-in-motion.md)
 * [👨🎤 My GitHub](https://github.com/Benjamin-KY)
@@ -24,7 +25,7 @@
 
 ## 😈 Technical AI Hacking
 
-* [What are the differences between hacking an AI and hacking other systems?](technical-ai-hacking/what-are-the-differences-between-hacking-an-ai-and-hacking-other-systems.md)
+* [Hacking AI systems vs other systems?](technical-ai-hacking/hacking-ai-systems-vs-other-systems.md)
 
 ## 🐼 Non-Technical AI Hacking
 
