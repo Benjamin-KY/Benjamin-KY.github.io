@@ -25,6 +25,8 @@ layout:
 
 ***
 
+<figure><img src=".gitbook/assets/Badges.png" alt="" width="316"><figcaption><p>Some certifications and badges showing my undying enthusiasm for learning and development</p></figcaption></figure>
+
 > > “By far, the greatest danger of Artificial Intelligence is that people conclude too early that they understand it.” —Eliezer Yudkowsky
 
 \
